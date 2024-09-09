@@ -1,0 +1,12 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+<html>
+<head>
+    <title>Thông tin cá nhân</title>
+</head>
+<body>
+    <h1>Thông tin cá nhân</h1>
+    <p>Họ và tên: Nguyễn Nhựt Tâm</p>
+    <p>Mssv: 20146070</p>
+    <p>Email: 20146070@student.hcmute.edu.vn</p>
+</body>
+</html>
